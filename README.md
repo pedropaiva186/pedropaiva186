@@ -10,7 +10,7 @@
   <img height=200 align="center" src="https://github-readme-stats-pedro-paivas-projects-b09e7abe.vercel.app/api?username=pedropaiva186&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/pedropaiva186/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-pedro-paivas-projects-b09e7abe.vercel.app/api/top-langs?username=pedropaiva186&layout=donut&langs_count=8&theme=dark&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-pedro-paivas-projects-b09e7abe.vercel.app/api/top-langs?username=pedropaiva186&layout=compact&langs_count=8&theme=dark&card_width=320" />
 </a>
 
 ## Tools
