@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFF2&size=35&center=true&vCenter=true&width=1000&lines=Hello+There!;I'm+Pedro+Paiva,+Welcome+to+my+profile😁:%29)](https://git.io/typing-svg)
 
 <!--
 **pedropaiva186/pedropaiva186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
