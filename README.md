@@ -4,19 +4,15 @@
 
 ##
 
-## Status
+## About me
 
-<a href="https://github.com/pedropaiva186/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-pedro-paivas-projects-b09e7abe.vercel.app/api?username=pedropaiva186&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/pedropaiva186/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-pedro-paivas-projects-b09e7abe.vercel.app/api/top-langs?username=pedropaiva186&layout=compact&langs_count=8&theme=dark&card_width=320" />
-</a>
+Studying Computer Science at the Federal University of Paraíba
+
+Studies focused on optimization and the creation of metaheuristics to support decision-making processes.
 
 ## Tools
 
 <div style="display: inline_block"><br>
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
